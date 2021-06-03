@@ -39,4 +39,4 @@ example>
 
 ### 자바스크립트
 
-- [Map과 Reduce의차이]
+- [Map과 Reduce의차이](https://github.com/cs-summary/2021-SwimmingXTWL/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Map%EA%B3%BCReduce%EC%B0%A8%EC%9D%B4)
